@@ -3,13 +3,13 @@
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDVO8YuIE7Bo9Zq53GACL0DwOPwlbDaE2Y",
-  authDomain: "kwitter1-665dd.firebaseapp.com",
-  databaseURL: "https://kwitter1-665dd-default-rtdb.firebaseio.com",
-  projectId: "kwitter1-665dd",
-  storageBucket: "kwitter1-665dd.appspot.com",
-  messagingSenderId: "596536167366",
-  appId: "1:596536167366:web:542a7fbe7feae36ac940c7"
+  apiKey: "AIzaSyDACDXPOAnAQzBoDTqyNnQ83w6G5IXgklE",
+  authDomain: "kwitter-9cff7.firebaseapp.com",
+  databaseURL: "https://kwitter-9cff7-default-rtdb.firebaseio.com",
+  projectId: "kwitter-9cff7",
+  storageBucket: "kwitter-9cff7.appspot.com",
+  messagingSenderId: "12093097604",
+  appId: "1:12093097604:web:d3454c17485da5d88e24d1"
 };
 
 // Initialize Firebase
